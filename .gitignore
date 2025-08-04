@@ -21,3 +21,7 @@ Thumbs.db
 # Logs and environments
 .env
 *.log
+
+# Data
+*test*.csv
+*train*.csv
