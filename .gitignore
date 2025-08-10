@@ -23,5 +23,6 @@ Thumbs.db
 *.log
 
 # Data
-*test*.csv
-*train*.csv
+*test*.*
+*train*.*
+*valid*.*
